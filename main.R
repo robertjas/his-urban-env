@@ -13,4 +13,5 @@ rstudio_clear_plots = function()
     }
 }
 
+print("5")
 rstudio_clear_plots()
