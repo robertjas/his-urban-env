@@ -14,4 +14,5 @@ rstudio_clear_plots = function()
 }
 
 print("5")
+print("hello world")
 rstudio_clear_plots()
